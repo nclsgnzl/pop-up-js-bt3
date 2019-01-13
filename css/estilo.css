@@ -1,0 +1,57 @@
+#modal_confirmacion{
+	margin-top: 15%;
+}
+#modal_confirmacion .modal-content {
+    background-color: #6D6D6D;
+    box-shadow: none;
+    border-radius: 0.5px;
+    border: none;
+}
+#modal_confirmacion .contenido_modal_confirmacion {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #EDC72E; 
+}
+#modal_confirmacion .contenido_modal_confirmacion #texto_2{
+	color: white;
+}
+.modal_concept{
+    border-bottom: 180px solid transparent; 
+    border-right: 60px solid #EDC72E;
+    border-left: 80px solid transparent;
+    position: absolute;
+    top: 50px;
+	left: 30%;
+}
+.modal_concept_right{
+	border-right: 0px solid transparent;
+    border-left: 120px solid #999595;
+    border-top: 170px solid #999595;
+    position: absolute;
+    top: 50px;
+	right: 37%;
+}
+
+.btn_action {
+  display: inline;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 0px;
+  color: white;
+  background-color: #504C4B;
+  margin-top: 5px;
+  margin-bottom: 5px; }
+
+.btn_action_two {
+  display: inline;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 0px;
+  color: #FFFFFF;
+  background-color: #EDC72E;
+  margin-top: 5px;
+  margin-bottom: 5px; }
